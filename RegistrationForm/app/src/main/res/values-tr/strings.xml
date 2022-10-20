@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="userPlaceHolder">Kullanıcı Adı</string>
+    <string name="passwordPlaceHolder">Şifre</string>
+    <string name="button">Giriş</string>
+    <string name="help">Yardım ?</string>
+</resources>
